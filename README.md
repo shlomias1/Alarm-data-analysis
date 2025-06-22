@@ -74,7 +74,7 @@ The `EDA.py` script performs the following analyses:
 
 ---
 
-## 🗺Region Mapping Logic
+## Region Mapping Logic
 
 Regions are determined based on geographic coordinates using a custom logic defined in `process.py`. Examples:
 
