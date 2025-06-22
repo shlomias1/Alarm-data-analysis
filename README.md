@@ -36,7 +36,6 @@ This project analyzes and visualizes emergency alarm data in Israel, with the go
    ```bash
    git clone https://github.com/shlomias1/Alarm-data-analysis.git
    cd Alarm-data-analysis
-````
 
 2. **Install dependencies**:
 
@@ -61,7 +60,6 @@ This project analyzes and visualizes emergency alarm data in Israel, with the go
    ```bash
    python EDA.py
    ```
-
 ---
 
 ## EDA Insights
