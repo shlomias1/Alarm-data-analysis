@@ -105,12 +105,9 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## ✍Author
+## Author
 
 Shlomi Assayag
 GitHub: [shlomias1](https://github.com/shlomias1)
 
-```
-
----
 ```
