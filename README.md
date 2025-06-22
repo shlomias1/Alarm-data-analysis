@@ -24,7 +24,7 @@ This project analyzes and visualizes emergency alarm data in Israel, with the go
 ## Features
 
 - **Data Cleaning**: Fills missing values using contextual logic (city-based and region-based interpolation).
-- 🗺**Geospatial Tagging**: Assigns regions based on latitude and longitude.
+- **Geospatial Tagging**: Assigns regions based on latitude and longitude.
 - **Translation**: Converts Hebrew alarm descriptions and region names into English.
 - **EDA**: Offers summary statistics, missing data reports, and distribution visualizations.
 
