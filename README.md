@@ -11,9 +11,9 @@ This project analyzes and visualizes emergency alarm data in Israel, with the go
 ├── data/
 │   ├── alarms.csv             # Raw alarm event data
 │   ├── coords.csv             # Location coordinates and metadata
-│   ├── time\_to\_impact.csv     # Estimated time-to-impact per city
-│   └── processed\_alarms.xlsx  # Output: cleaned dataset with enriched fields
-├── load\_data.py               # Loads raw datasets into memory
+│   ├── time_to_impact.csv     # Estimated time-to-impact per city
+│   └── processed_alarms.xlsx  # Output: cleaned dataset with enriched fields
+├── load_data.py               # Loads raw datasets into memory
 ├── process.py                 # Cleans and enriches the data
 ├── EDA.py                     # Exploratory Data Analysis: statistics and plots
 
